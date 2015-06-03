@@ -1,3 +1,8 @@
+NOTE: This project was forked from: 
+https://code.google.com/p/internetconnectivitymonitor/
+-nharrer
+
+
 Internet Connectivity Monitor v1.41
 
 
