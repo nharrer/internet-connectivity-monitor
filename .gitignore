@@ -1,0 +1,30 @@
+# NetBeans specific #
+
+nbproject/private/
+nbproject/genfiles.properties
+nbproject/build-impl.xml
+nbbuild/
+nbdist/
+build/
+dist/
+nbactions.xml
+nb-configuration.xml
+.nb-gradle/
+
+# Class Files #
+*.class
+
+# Package Files #
+
+*.jar
+*.war
+*.ear
+
+# Class Files #
+*.class
+
+# Misc #
+
+.mtj.tmp/
+hs_err_pid*
+
